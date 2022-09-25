@@ -10,10 +10,6 @@ QUIZWORLD is a web application for all kinds of users. Users can simply log in t
 
 Take a look at the live <a href="https://quizworld23.herokuapp.com/" target="_blank">Preview of the app</a>.
 
-## Supported Environments
-
-- Windows/ macOS/ Linux operating systems are supported for the development of the respective project.
-
 ## Blind Quiz Commands
 
 - The Blind Quiz Module works with the limited Speech Commands to interact with the App.
@@ -27,3 +23,7 @@ Take a look at the live <a href="https://quizworld23.herokuapp.com/" target="_bl
   - `Repeat Question [Number]`: To listen a specific Question.
   - `Repeat Current Question`: To repeat the current Question.
   - `submit quiz`: to submit the quiz.
+
+## Quiz Code
+
+To join the quiz "631fba25eae745437c1fd017". 
